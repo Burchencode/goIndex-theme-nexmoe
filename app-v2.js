@@ -86,7 +86,7 @@ function init() {
 
 				<ul class="menu_ul">
 
-					<li class="menu_li"><a href="https://aria2.me/aria-ng/" target="_blank">博客</a></li>
+					<li class="menu_li"><a href="https://aria2.me/aria-ng/" target="_blank">Aria2</a></li>
 
 					<li class="menu_li"><a href="https://blog.bqcloud.tk/" target="_blank">博客</a></li>
 
