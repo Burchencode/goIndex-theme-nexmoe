@@ -80,7 +80,7 @@ function init() {
 
     <div class="navSize">
 
-			<a href="/"><img class="avatar" src="https://s1.ax1x.com/2020/09/09/w1R1zT.jpg"/></a>
+			<a href="/"><img class="avatar" src="https://s1.ax1x.com/2020/09/09/w1R1zT.th.jpg"/></a>
 
 			<div class="nav_menu">
 
